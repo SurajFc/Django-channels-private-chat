@@ -1,7 +1,5 @@
 ## A Django starter project that "just works."
 
-> **NOTE**: This open source project is supported by [LearnDjango.com](https://learndjango.com) which has free tutorials and premium courses.
-
 ## Demo
 
 ![Demo Video](https://github.com/wsvincent/djangox/blob/master/demo.gif)
