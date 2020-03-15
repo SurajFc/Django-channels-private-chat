@@ -77,6 +77,8 @@ It's also possible to change the `djangox_project` directory to your desired pro
 
 See [CONTRIBUTING.md](https://github.com/wsvincent/djangox/blob/master/CONTRIBUTING.md).
 
+## Note:
+
 this is the fork of django-X .. i just added simple chat app using Django Channels
 make sure to install redis in your system and appropriate packages
 then start the redis-server
